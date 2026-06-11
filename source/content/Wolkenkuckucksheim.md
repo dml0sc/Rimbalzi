@@ -7,7 +7,7 @@ tags:
 ---
 
 ![](assets/06-Hermann-Finsterlin--1920-24--Wolkenkuckkucksheim_900.jpg)
-<p style="font-size: 0.8em; color: var(--text-muted); line-height: 1.2; margin-bottom: 1.5em;">Hermann Finsterlin, <i>Wolkenkuckkucksheim</i>, 1920-24. Acquerello. Da Reinhard Döhl, <i>Hermann Finsterlin. Eine Annäherung</i>, Stoccarda: Hatje, 1988.</p>
+<p style="font-size: 0.8em; color: var(--text-muted); line-height: 1.2; margin-top: -0.75rem; margin-bottom: 2.5rem;">Hermann Finsterlin, <i>Wolkenkuckkucksheim</i>, 1920-24. Acquerello. Da Reinhard Döhl, <i>Hermann Finsterlin. Eine Annäherung</i>, Stoccarda: Hatje, 1988.</p>
 
 In basso a sinistra, a matita, Hermann Finsterlin annotò sul foglio una parola sola: *Wolkenkuckucksheim*. È il castello in aria dei tedeschi, la Cloud Cuckoo Land degli inglesi — la città che gli uccelli di Aristofane fondano a mezz'aria, troppo in alto per gli uomini, troppo in basso per gli dèi. Una parola che da venticinque secoli significa utopia, scritta sotto un acquerello come si scrive un indirizzo. Finsterlin ci abitò tutta la vita: non costruì nulla, non fu mai un architetto, e forse proprio per questo immaginò gli edifici più radicali del Novecento. I suoi disegni, prodotti di una febbre espressionista tra il 1919 e il 1924, mostrano interni che non hanno pareti, pavimenti o soffitti, ma solo cavità organiche che si gonfiano, si restringono e si aprono l'una nell'altra come gli organi di un corpo. L'abitante non cammina attraverso stanze — si muove «da organo a organo», come un globulo che circola, come un bolo che transita.
 
