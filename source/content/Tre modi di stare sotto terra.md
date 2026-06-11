@@ -2,6 +2,8 @@
 title: "Tre modi di stare sotto terra"
 semina: 2026-03-25
 cura: 2026-06-11
+tags:
+  - architettura
 ---
 
 Nel 2004 la polizia parigina scoprì, nelle viscere del sedicesimo arrondissement, un cinema perfettamente funzionante. Niente massi grezzi né pareti di roccia: balconate intagliate, un bar fornito, linee telefoniche e una collezione di film noir degli anni Cinquanta. Qualcuno aveva costruito, sotto Parigi, esattamente ciò che Parigi offre in superficie — ma in segreto e per pochi.

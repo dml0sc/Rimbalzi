@@ -2,6 +2,8 @@
 title: "Da organo a organo"
 semina: 2026-03-26
 cura: 2026-06-11
+tags:
+  - architettura
 ---
 
 Hermann Finsterlin non costruì nulla. Non fu mai un architetto, e forse proprio per questo immaginò gli edifici più radicali del Novecento. I suoi disegni, prodotti di una febbre espressionista tra il 1919 e il 1924, mostrano interni che non hanno pareti, pavimenti o soffitti, ma solo cavità organiche che si gonfiano, si restringono e si aprono l'una nell'altra come gli organi di un corpo. L'abitante non cammina attraverso stanze — si muove «da organo a organo», come un globulo che circola, come un bolo che transita.
