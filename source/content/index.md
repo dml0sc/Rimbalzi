@@ -11,7 +11,7 @@ Questo spazio raccoglie idee in evoluzione — frammenti, connessioni, intuizion
 ## Esplorazioni recenti
 
 - [[Tre modi di stare sotto terra]]
-- [[Abitare le nuvole]]
+- [[Wolkenkuckucksheim]]
 
 ## Come navigare
 

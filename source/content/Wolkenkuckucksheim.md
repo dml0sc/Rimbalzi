@@ -1,5 +1,5 @@
 ---
-title: "Abitare le nuvole"
+title: "Wolkenkuckucksheim"
 semina: 2026-03-26
 cura: 2026-06-11
 tags:

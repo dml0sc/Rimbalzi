@@ -6,7 +6,7 @@ tags:
   - architettura
 ---
 
-Nei disegni di Hermann Finsterlin non ci sono stanze. Ci sono cavità che si gonfiano, si restringono, si aprono l'una nell'altra come organi in un corpo. L'abitante non cammina attraverso una pianta — transita, come un bolo alimentare, [[Abitare le nuvole|da organo a organo]]. Non è l'uomo che entra nell'edificio; è l'edificio che digerisce l'uomo.
+Nei disegni di Hermann Finsterlin non ci sono stanze. Ci sono cavità che si gonfiano, si restringono, si aprono l'una nell'altra come organi in un corpo. L'abitante non cammina attraverso una pianta — transita, come un bolo alimentare, [[Wolkenkuckucksheim|da organo a organo]]. Non è l'uomo che entra nell'edificio; è l'edificio che digerisce l'uomo.
 
 L'inversione è precisa. Nell'architettura classica, il corpo umano è il modello dell'edificio — Vitruvio lo inscrive in un cerchio e un quadrato, e le proporzioni dell'uomo diventano le proporzioni del tempio. Nell'architettura di Finsterlin, l'edificio è il corpo — non il modello del corpo, il corpo stesso, con i suoi interni viscerali, le sue membrane, i suoi passaggi umidi. L'abitante è il contenuto biologico di un organismo più grande, esattamente come il cibo è il contenuto dello stomaco. Harbison diceva che la vera privacy è congestionata — Finsterlin porta la congestionamento al limite: lo spazio aderisce al corpo come una mucosa.
 
