@@ -113,6 +113,7 @@ Rimosso dal layout — H1 deve essere nel markdown del file.
 - (2026-06-11) `quartz.layout.ts`: TagList in beforeBody; RecentNotes esclude index
 - (2026-06-11) `TagList.tsx` riscritto: riga discreta "sentieri: ..." in grigio metadati, niente chip né #; chip nascoste anche nelle pagine-elenco
 - (2026-06-11) `it-IT.ts`: Etichetta → Sentiero ("N note su questo sentiero")
+- (2026-06-11) Repo rinominato `dml0sc/Leandra` → `dml0sc/rimbalzi`: l'URL Pages diventa dml0sc.github.io/rimbalzi (il vecchio /Leandra/ è morto, nessun redirect Pages); `baseUrl` allineato
 -
 ---
 

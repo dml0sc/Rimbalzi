@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "it-IT",
-    baseUrl: "leandra.xyz",
+    baseUrl: "dml0sc.github.io/rimbalzi",
     ignorePatterns: ["private", "templates"],
     defaultDateType: "created",
     theme: {
