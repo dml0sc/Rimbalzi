@@ -109,7 +109,11 @@ Rimosso dal layout — H1 deve essere nel markdown del file.
 - Configurazione colori dark mode con palette terracotta/verde
 - Font: Bricolage Grotesque (body), Inter (header), JetBrains Mono (code)
 - Creato `CUSTOMIZATIONS.md` per documentare le personalizzazioni
+- (2026-06-11) `lastmod.ts`: legge `semina`/`cura` dal frontmatter (lessico orticolo del ponte di pubblicazione)
+- (2026-06-11) `quartz.layout.ts`: TagList in beforeBody; RecentNotes esclude index
+- (2026-06-11) `TagList.tsx` riscritto: riga discreta "sentieri: ..." in grigio metadati, niente chip né #; chip nascoste anche nelle pagine-elenco
+- (2026-06-11) `it-IT.ts`: Etichetta → Sentiero ("N note su questo sentiero")
 -
 ---
 
-*Ultimo aggiornamento: 2025-11-22*
+*Ultimo aggiornamento: 2026-06-11*
