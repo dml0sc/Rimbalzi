@@ -9,9 +9,8 @@ Questo spazio raccoglie idee in evoluzione — frammenti, connessioni, intuizion
 
 ## Esplorazioni recenti
 
-- [[La città come metafora cognitiva]]
-- [[Frammenti sul collezionismo]]
-- [[Il paradosso dell'archivio vivente]]
+- [[Tre modi di stare sotto terra]]
+- [[Da organo a organo]]
 
 ## Come navigare
 
