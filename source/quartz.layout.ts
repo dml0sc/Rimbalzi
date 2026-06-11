@@ -30,13 +30,17 @@ const left = [
   }),
   Component.DesktopOnly(
     Component.RecentNotes({
-      title: "Note recenti",
-      limit: 5,
+      // Personalizzazione Rimbalzi: non un blog — niente "recenti".
+      // Indice completo degli elzeviri, in ordine alfabetico.
+      title: "Elzeviri",
+      limit: 500,
       showTags: false,
       showDate: false,
       linkToMore: false,
       // la homepage non elenca sé stessa
       filter: (f) => f.slug !== "index",
+      sort: (a, b) =>
+        (a.frontmatter?.title ?? "").localeCompare(b.frontmatter?.title ?? "", "it"),
     }),
   ),
 ]

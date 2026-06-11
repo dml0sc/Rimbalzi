@@ -8,7 +8,7 @@ Un giardino digitale per pensare in pubblico.
 
 Questo spazio raccoglie idee in evoluzione — frammenti, connessioni, intuizioni che maturano nel tempo. Non è un blog: le note cambiano, si collegano, crescono.
 
-## Esplorazioni recenti
+## Esplorazioni
 
 - [[Tre modi di stare sotto terra]]
 - [[Wolkenkuckucksheim]]
