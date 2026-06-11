@@ -11,7 +11,7 @@ Questo spazio raccoglie idee in evoluzione — frammenti, connessioni, intuizion
 ## Esplorazioni recenti
 
 - [[Tre modi di stare sotto terra]]
-- [[Da organo a organo]]
+- [[Abitare le nuvole]]
 
 ## Come navigare
 
