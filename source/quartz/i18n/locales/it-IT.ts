@@ -76,12 +76,12 @@ export default {
         count === 1 ? "1 oggetto in questa cartella." : `${count} oggetti in questa cartella.`,
     },
     tagContent: {
-      tag: "Etichetta",
-      tagIndex: "Indice etichette",
+      tag: "Sentiero",
+      tagIndex: "I sentieri",
       itemsUnderTag: ({ count }) =>
-        count === 1 ? "1 oggetto con questa etichetta." : `${count} oggetti con questa etichetta.`,
-      showingFirst: ({ count }) => `Prime ${count} etichette.`,
-      totalTags: ({ count }) => `Trovate ${count} etichette totali.`,
+        count === 1 ? "1 nota su questo sentiero." : `${count} note su questo sentiero.`,
+      showingFirst: ({ count }) => `Primi ${count} sentieri.`,
+      totalTags: ({ count }) => `${count} sentieri in tutto.`,
     },
   },
 } as const satisfies Translation
