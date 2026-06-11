@@ -40,7 +40,8 @@ TagList.css = `
   border-radius: 0;
   padding: 0;
   margin: 0;
-  color: var(--darkgray);
+  color: var(--secondary);
+  font-weight: 400;
 }
 
 .sentieri a.internal.tag-link::before {
@@ -48,7 +49,7 @@ TagList.css = `
 }
 
 .sentieri a.internal.tag-link:hover {
-  color: var(--secondary);
+  color: var(--tertiary);
 }
 
 /* Personalizzazione Leandra: nelle pagine-elenco (sentieri, cartelle) niente
