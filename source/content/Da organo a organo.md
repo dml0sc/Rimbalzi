@@ -14,8 +14,3 @@ Finsterlin non costruì nulla, e questo è il punto. I suoi disegni funzionano c
 
 Un secolo dopo, l'architettura computazionale promette esattamente questo: strutture che si ramificano, si adattano, rispondono all'ambiente come tessuti viventi. Ma anche quella è una simulazione — algoritmica, non organica. La differenza tra il termitaio e il grattacielo parametrico è che il termitaio respira davvero.
 
----
-
-**Fonti**: Hermann Finsterlin — via 50watts.com, "Wandering from Organ to Organ with Hermann Finsterlin". Paul Dobraszczyk, *Animal Architecture: Beasts, Buildings and Us* (2023).
-
-- L'architettura computazionale simula l'organismo — parametrismo, biomimetica digitale e i limiti della simulazione

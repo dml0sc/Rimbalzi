@@ -14,7 +14,3 @@ Queste tre accezioni, distinte in teoria, convergono nella pratica. Nella Londra
 
 E poi c'è Robert Smithson, che nel 1971 propose di costruire un cinema dentro una grotta. Schermo ricavato dalla parete rocciosa, sedute di massi, un unico documentario sulla costruzione della grotta stessa proiettato in loop. Lo spettatore non avrebbe guardato un film: avrebbe contemplato ombre su pietra — la Caverna di Platone, ricreata deliberatamente. Dove il filosofo greco voleva che ne uscissimo, Smithson voleva che ci restassimo. Il cinema parigino, scoperto trent'anni dopo, gli dà torto nel modo più ironico possibile: nel sottosuolo, gli esseri umani finiscono sempre per ricreare il salotto.
 
----
-
-**Fonti**: Michael Saler, "Down the Tube"; Colby Chamberlain, "The Moviegoer as Spelunker" — entrambi in *Cabinet* 41 (Underground), 2008.
-
