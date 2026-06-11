@@ -6,10 +6,14 @@ import { SimpleSlug } from "./quartz/util/path"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
-  footer: Component.Footer({
-    links: {},
-  }),
+  // Personalizzazione Leandra: il footer segue l'elzeviro nel flusso del testo
+  // (afterBody), non resta ancorato in fondo alla finestra.
+  afterBody: [
+    Component.Footer({
+      links: {},
+    }),
+  ],
+  footer: Component.Spacer(),
 }
 
 const left = [
