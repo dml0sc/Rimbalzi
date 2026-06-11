@@ -1,5 +1,5 @@
 ---
-title: Leandra
+title: Rimbalzi
 semina: 2025-11-22
 ---
 

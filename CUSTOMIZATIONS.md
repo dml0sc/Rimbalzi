@@ -100,7 +100,7 @@ Rimosso dal layout — H1 deve essere nel markdown del file.
 - Creazione ornamenti SVG per HR: `line-hoefler.svg` e `line-english.svg` (scelta finale: english)
 - Styling del footer (0.75rem, color: var(--gray))
 - Rimozione ArticleTitle dal layout — H1 viene dal markdown
-- Cambio titolo sito: "Leandra" → "Stefano Cracolici" → "La Finestra" → "Leandra". Avevo pensato a La finestra sul cortile – qui evocato anche dall'effetto sunset nel passaggio da tema light a tema dark.
+- Cambio titolo sito: "Leandra" → "Stefano Cracolici" → "La Finestra" → "Leandra" → **"Rimbalzi"** (2026-06-11, testata definitiva; l'infrastruttura — repo, firma git — resta Leandra). Avevo pensato a La finestra sul cortile – qui evocato anche dall'effetto sunset nel passaggio da tema light a tema dark.
 - Esperimenti con background image: provato pines.png, tornato a leaves.png
 - Posizione leaves.png: `right: -600px` (valore originale)
 - Rimozione bullet points e padding dalle liste RecentNotes e Backlinks per allineamento corretto
