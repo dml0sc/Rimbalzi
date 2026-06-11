@@ -77,6 +77,9 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                 created ||= file.data.frontmatter.created as MaybeDate
                 modified ||= file.data.frontmatter.modified as MaybeDate
                 published ||= file.data.frontmatter.published as MaybeDate
+                // Lessico orticolo di Leandra: semina = planted, cura = tended
+                created ||= (file.data.frontmatter as any).semina as MaybeDate
+                modified ||= (file.data.frontmatter as any).cura as MaybeDate
               } else if (source === "git" && repo) {
                 try {
                   const relativePath = path.relative(repositoryWorkdir, fullFp)
