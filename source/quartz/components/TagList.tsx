@@ -9,7 +9,7 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
   if (tags && tags.length > 0) {
     return (
       <p class={classNames(displayClass, "sentieri")}>
-        sentieri:{" "}
+        <span class="sentieri-label">sentieri: </span>
         {tags.map((tag, i) => {
           const linkDest = resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)
           return (
@@ -31,8 +31,14 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
 TagList.css = `
 .sentieri {
   margin: -0.75rem 0 1rem 0;
+  font-family: var(--headerFont);
+  font-size: 0.85rem;
+}
+
+/* stesso trattamento della data (.content-meta: darkgray a opacità 0.5) */
+.sentieri .sentieri-label {
   color: var(--darkgray);
-  font-size: 0.9em;
+  opacity: 0.5;
 }
 
 .sentieri a.internal.tag-link {
