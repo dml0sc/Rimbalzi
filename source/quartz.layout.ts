@@ -31,6 +31,8 @@ const left = [
       showTags: false,
       showDate: false,
       linkToMore: false,
+      // la homepage non elenca sé stessa
+      filter: (f) => f.slug !== "index",
     }),
   ),
 ]
