@@ -12,6 +12,7 @@ Questo spazio raccoglie idee in evoluzione — frammenti, connessioni, intuizion
 
 - [[Tre modi di stare sotto terra]]
 - [[Wolkenkuckucksheim]]
+- [[Abitare le viscere]]
 
 ## Come navigare
 
