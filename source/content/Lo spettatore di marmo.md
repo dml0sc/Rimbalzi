@@ -2,6 +2,8 @@
 title: "Lo spettatore di marmo"
 semina: 2026-06-11
 cura: 2026-06-12
+tags:
+  - involucri
 ---
 
 Nella Cappella Cornaro, ai lati dell'altare dove Teresa sviene sotto la freccia dell'angelo, Bernini scolpì due palchi da teatro. Dentro ci sono otto figure di marmo — cardinali e procuratori di casa Cornaro — che conversano, si sporgono, commentano la scena. Spettatori scolpiti, abbonati per l'eternità. Chi entra nella cappella se ne accorge con un piccolo ritardo, ed è il ritardo a fare l'effetto: i palchi non guardano soltanto l'estasi, guardano anche la platea. Entrando si diventa l'ennesimo testimone — l'unico di carne.

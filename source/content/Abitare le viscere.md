@@ -1,9 +1,9 @@
 ---
 title: "Abitare le viscere"
 semina: 2026-03-26
-cura: 2026-06-11
+cura: 2026-06-12
 tags:
-  - architettura
+  - involucri
 ---
 
 Nei disegni di Hermann Finsterlin non ci sono stanze. Ci sono cavità che si gonfiano, si restringono, si aprono l'una nell'altra come organi in un corpo. L'abitante non cammina attraverso una pianta — transita, come un bolo alimentare, [[Wolkenkuckucksheim|da organo a organo]]. Non è l'uomo che entra nell'edificio; è l'edificio che digerisce l'uomo.

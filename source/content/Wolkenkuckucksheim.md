@@ -3,7 +3,7 @@ title: "Wolkenkuckucksheim"
 semina: 2026-03-26
 cura: 2026-06-12
 tags:
-  - architettura
+  - involucri
 ---
 
 ![](assets/06-Hermann-Finsterlin--1920-24--Wolkenkuckkucksheim_900.jpg)
