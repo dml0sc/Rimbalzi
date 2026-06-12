@@ -1,0 +1,21 @@
+footer {
+  text-align: left;
+  padding-bottom: 4rem;
+
+  // Personalizzazione Leandra: il footer segue l'elzeviro nel flusso del testo
+  // (afterBody) — stacco ampio dal testo, niente ancoraggio al fondo pagina.
+  .center & {
+    margin-top: 3rem;
+    padding-bottom: 1rem;
+  }
+
+  & ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    margin-top: -1rem;
+  }
+}
