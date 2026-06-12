@@ -47,7 +47,7 @@ const left = [
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ContentMeta(), Component.TagList()],
+  beforeBody: [Component.Breadcrumbs({ rootName: "Rimbalzi" }), Component.ContentMeta(), Component.TagList()],
   left,
   right: [
     Component.Graph({
@@ -66,7 +66,7 @@ export const defaultContentPageLayout: PageLayout = {
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
+    Component.Breadcrumbs({ rootName: "Rimbalzi" }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     // i sentieri: la tassonomia curata, all'imbocco della nota
