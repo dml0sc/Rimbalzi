@@ -3,6 +3,8 @@ title: Ricochets
 semina: 2026-06-12
 cura: 2026-06-12
 enableToc: false
+tags:
+  - soglia
 ---
 
 La parola viene da una ballata in antico francese in cui il ritornello ti tornava addosso — *ricochet*, qualcosa che rientra con una certa necessità lirica. Era ancora morbida: il verso che si ripete, la rima che richiude il canto.
