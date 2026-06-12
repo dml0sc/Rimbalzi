@@ -1,6 +1,7 @@
 ---
 title: Rimbalzi
 semina: 2025-11-22
+enableToc: false
 ---
 
 
