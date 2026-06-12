@@ -1,13 +1,11 @@
 # Rimbalzi
 
-Rimbalzi è un esperimento di giardino digitale.
+Un giardino digitale — elzeviri brevi su letture, immagini, idee.
 
-Rimbalzi raccoglie elzeviri brevi — letture, immagini, idee che rimbalzano tra fonti e osservazione. Non è un blog: non segue un calendario, non punta a coprire nessun campo. Ogni nota ha una vita propria, cresce o resta ferma, si connette ad altre nel tempo.
+Un rimbalzo non è un riassunto. Parte da una fonte — un libro, un'immagine, un aneddoto — e ne esce in una direzione diversa da quella d'entrata. Il contatto c'è, ma la traiettoria cambia. Per colpire il bersaglio bisogna spesso mirare altrove.
 
-Il sito è generato con [Quartz](https://github.com/jackyzha0/quartz) a partire da note Obsidian. I testi vengono dall'officina di Leandra.
+Le note crescono nel tempo, si connettono tra loro, restano incompiute quanto basta.
 
-**Sito:** [dml0sc.github.io/rimbalzi](https://dml0sc.github.io/rimbalzi)
+Generato con [Quartz](https://github.com/jackyzha0/quartz) a partire da note Obsidian. I testi vengono dall'officina di Leandra.
 
----
-
-*Struttura*: i testi pubblici vivono in `source/content/`. Per costruire il sito in locale: `npx quartz build --serve` dentro `source/`.
+**→** [dml0sc.github.io/rimbalzi](https://dml0sc.github.io/rimbalzi)
