@@ -6,6 +6,4 @@ Un rimbalzo non è un riassunto. Parte da una fonte — un libro, un'immagine, u
 
 Le note crescono nel tempo, si connettono tra loro, restano incompiute quanto basta.
 
-I testi vengono dall'officina di Leandra.
-
 **→** [dml0sc.github.io/rimbalzi](https://dml0sc.github.io/rimbalzi)
