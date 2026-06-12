@@ -158,6 +158,12 @@ audio::-webkit-media-controls-panel {
   }
 }
 
+// Active page link in explorer sidebar
+.explorer-content li > a.active {
+  color: var(--secondary) !important;
+  opacity: 1;
+}
+
 // Backlinks styling
 .backlinks {
   & > ul.overflow {
