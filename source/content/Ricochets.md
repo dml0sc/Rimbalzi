@@ -1,5 +1,7 @@
 ---
 title: Ricochets
+aliases:
+  - index
 semina: 2026-06-12
 cura: 2026-06-12
 enableToc: false
@@ -15,6 +17,6 @@ Da questa genealogia — ritornello lirico, tecnica balistica, metodo della cono
 
 Ciò che il fuoco diretto non raggiunge — il sotto dello scafo, la falda coperta dalla fortezza — lo si raggiunge rimbalzando. Il ritornello medievale lo sapeva già: *ti torna addosso*, dissero dei versi che ritornano. E ritornano da dove il colpo frontale non sarebbe mai arrivato.
 
----
-
+%%
 **Fonti**: Sina Najafi, "Curiosity and Method" — in *Ten Years of Cabinet Magazine*, 2012.
+%%
