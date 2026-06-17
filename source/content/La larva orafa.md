@@ -1,0 +1,12 @@
+---
+title: "La larva orafa"
+semina: 2026-03-25
+cura: 2026-06-17
+---
+
+La larva del tricottero vive sul fondo dei torrenti e fa quello che fanno tutti gli architetti: costruisce con quello che trova. Granelli di sabbia, schegge d'osso di pesce, frammenti di guscio di crostaceo — qualsiasi detrito del fondale viene filato in un astuccio protettivo, una guaina cilindrica che la larva si porta addosso come una casa mobile. L'artista francese Hubert Duprat, negli anni Ottanta, ebbe un'idea semplice e devastante: tolse le larve dal loro ambiente naturale, le privò delicatamente dei loro astucci, e le mise in acquari pieni di materiali diversi. Pagliuzze d'oro. Turchesi. Opali. Lapislazzuli. Corallo. Perle. Rubini. Zaffiri. Diamanti.
+
+Le larve fecero esattamente quello che avrebbero fatto con la sabbia: filarono. Solo che adesso producevano gioielli. Piccoli cilindri incrostati di pietre preziose, ognuno diverso dall'altro, ognuno impeccabilmente costruito da un organismo che non ha la minima idea di cosa sia un gioiello. Il critico Christian Besson li chiamò "oggetti doppiamente esposti": dal punto di vista biologico, l'oro e i rubini sono solo rumore ambientale che attiva il comportamento innato dell'insetto; dal punto di vista umano, la larva è l'esecutrice inconsapevole di un progetto estetico. L'opera d'arte sta nella confusione tra i due livelli — nel fatto che non si può decidere se l'artefice sia l'artista o il verme.
+
+La cosa più inquietante, però, non è l'ambiguità. È la bellezza. Quegli astucci sono belli — di una bellezza che nessun orafo umano potrebbe replicare, perché nessun orafo umano lavora dall'interno. La larva costruisce attorno a sé, e la forma dell'oggetto è la forma del suo corpo. Nel museo di Nitilo — il gabinetto letterario descritto da Crescimbeni nell'Arcadia settecentesca — gli oggetti più preziosi erano quelli dove la natura aveva fatto tutto da sola: conchiglie con gocce d'acqua mobili all'interno, pietre che sembravano dipinte. Il valore stava nell'assenza di intervento umano. Duprat inverte il gesto: fornisce i materiali, ma affida la costruzione a un organismo. Cennini fondeva lucertole in bronzo per catturare la forma della natura nella materia dell'arte. Duprat fa il contrario: mette la materia dell'arte nelle mani — nelle mandibole — della natura. Il risultato è lo stesso: un oggetto in cui non si riesce più a separare il fatto dal fabbricato.
+

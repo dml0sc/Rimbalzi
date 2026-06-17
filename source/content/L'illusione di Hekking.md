@@ -1,8 +1,11 @@
 ---
 title: "L'illusione di Hekking"
 semina: 2026-03-28
-cura: 2026-06-13
+cura: 2026-06-17
 ---
+
+![](assets/gioconda-louvre-vs-hekking.jpg)
+<p style="font-size: 0.8em; line-height: 1.2; margin-top: -0.75rem; margin-bottom: 2.5rem;">A sinistra la <i>Gioconda</i> di Leonardo, Parigi, Louvre; a destra la <i>Gioconda di Hekking</i>, copia anonima del Seicento, venduta da Christie's nel 2021.</p>
 
 Negli anni Cinquanta un antiquario francese di nome Raymond Hekking comprò una Gioconda in un mercatino del sud della Francia. Pagò tremila franchi — il prezzo di un mobile usato. Era una copia seicentesca, mediocre per tecnica, interessante solo per il fatto di esistere. Ma Hekking non la trattò come una copia. Lanciò una campagna sulla stampa sostenendo che la sua era l'originale e che il Louvre esponeva un falso. Scrisse lettere ai giornali, rilasciò interviste, organizzò confronti fotografici. I critici lo ignorarono; il pubblico lo trovò divertente; Hekking non si fermò per trent'anni.
 
