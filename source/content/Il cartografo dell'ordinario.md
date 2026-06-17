@@ -4,7 +4,7 @@ semina: 2026-04-03
 cura: 2026-06-17
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg/3840px-Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg)
+![](assets/bruegel-giochi-di-fanciulli.jpg)
 <p style="font-size: 0.8em; line-height: 1.2; margin-top: -0.75rem; margin-bottom: 2.5rem;">Pieter Bruegel il Vecchio, <i>Giochi di fanciulli</i>, 1560. Vienna, Kunsthistorisches Museum.</p>
 
 C'è un gesto rivoluzionario che non somiglia per niente a una rivoluzione. Bruegel il Vecchio, nel 1553, dipinse dei pattinatori davanti alla porta di San Giorgio ad Anversa. Nessun eroe, nessun santo, nessun mito. Solo gente che pattina — borghesi, artigiani, bambini che scivolano sul ghiaccio con la naturalezza di chi non sa di essere osservato. I suoi contemporanei dipingevano scene di genere per insegnare una morale: il bevitore punito, il giocatore rovinato, il peccatore che paga. Bruegel dipingeva la stessa vita quotidiana senza la lezione. Guardava e basta.
